@@ -215,7 +215,7 @@ export default function Example() {
             <div className="w-full h-full flex flex-col justify-center items-center backdrop-blur-sm">
             </div>
           </div>
-          <div className="flex max-w-7xl p-5 m-8 pt-40 text-center justify-center items-center">
+          <div className="flex max-w-10xl p-5 m-8 pt-40 text-center justify-center items-center">
             <h1 className={`${inter.className} font-semibold text-3xl`}>What is Project Erudite Path Mentoring?</h1>
           </div>
           <div className="flex text-center justify-center items-center">
